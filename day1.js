@@ -1,0 +1,1 @@
+alert("This day one of web development bootcamp");
